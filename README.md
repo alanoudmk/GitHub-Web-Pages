@@ -29,16 +29,16 @@ GitHub Pages is often used for personal websites, project websites, documentatio
 ### 3. Create your web content:
 In your repository:
 1. click on the "Add fil" button:
-  <img src="https://github.com/user-attachments/assets/7d7c2f78-f08f-4e1b-beab-3e95d72d084c" width="120" height="60">
+  <img src="https://github.com/user-attachments/assets/7d7c2f78-f08f-4e1b-beab-3e95d72d084c" width="90" height="40">
 
 2. Select "Upload Files":
-  <img src="https://github.com/user-attachments/assets/78261948-79a9-46e8-ab72-beb170ff62d7" width="220" height="90">
+  <img src="https://github.com/user-attachments/assets/78261948-79a9-46e8-ab72-beb170ff62d7" width="200" height="70">
 
 3. Drag & Drop Your Files:
   <img src="https://github.com/user-attachments/assets/d1fa3e10-3037-4d4b-b334-6d97788779eb" width="300" height="130">
 
 4. Save the changes:
-  <img src="https://github.com/user-attachments/assets/00489bde-ac52-4a2f-8c67-668b1a8be279" width="220" height="60">
+  <img src="https://github.com/user-attachments/assets/00489bde-ac52-4a2f-8c67-668b1a8be279" width="200" height="40">
 
 
 
